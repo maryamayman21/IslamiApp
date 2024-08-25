@@ -1,0 +1,20 @@
+{
+"app_title" : "اسلامي",
+"quran" : "قران",
+"hadith" : "حديث",
+"tasbeh" : "تسبيح",
+"radio" : "راديو",
+"setting" : "الأعدادات",
+"chapterName" : "اسم السورة",
+"versesNumber" : "عدد الاّيات",
+"tasbehNumber" : "عدد التسبيح",
+"elahadith" : "الأحاديث",
+"hadethNumber" : "الحديث رقم",
+"theme" : "النمط",
+"darkMode" : "وضع الليل",
+"language" : "اللغة",
+"english" : "الانجليزية",
+"arabic" : "العربية",
+"holyQuranRadio" :"إذاعة القران الكريم",
+"noOfTasbeh" : "عدد التسبيحات"
+}

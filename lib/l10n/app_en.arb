@@ -1,0 +1,20 @@
+{
+"app_title" : "Islami",
+"quran" : "Quran",
+"hadith" : "Hadith",
+"tasbeh" : "Tasbeh",
+"radio" : "Radio",
+"setting" : "Setting",
+"chapterName" : "ChapterName",
+"versesNumber" : "Verses Number",
+"tasbehNumber" : "Tasbeh Number",
+"elahadith" : "El Ahadith",
+"hadethNumber" : "Hadith number",
+"theme" : "Theme",
+"darkMode" : "Dark mode",
+"language" : "Language",
+"english" : "English",
+"arabic" : "Arabic",
+"holyQuranRadio" : "Holy quran radio",
+"noOfTasbeh" : "Tasbeh number"
+}
