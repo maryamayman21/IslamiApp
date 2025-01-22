@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="screenshots/banner.png" alt="Islamic App Banner" width="100%">
-</p>
-
 <h2 align="center">📱 Islamic App</h2>
 <p align="center">
   Your one-stop app for all essential Islamic resources.
@@ -21,12 +17,26 @@
 ---
 
 ## 📸 Demp
+![Image](https://github.com/user-attachments/assets/dca9b878-fffb-4813-ac01-53e2977c0612)
 
 
 ---
 
-## 🛠️ Installation
+## 🛠️ Architecture
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/yourusername/islamic_app.git
+
+---
+
+### **6. Add Animated GIFs**
+Showcase app interactions with GIFs:
+```markdown
+## 🎥 App Preview
+
+![Image](https://github.com/user-attachments/assets/dca9b878-fffb-4813-ac01-53e2977c0612)
+
+📚 Tools and State Management
+
+Provider: Used for state management to ensure a seamless user experience.
+
+File Management: Implemented to allow handling, uploading, and accessing files within the app.
+
