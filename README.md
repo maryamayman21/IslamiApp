@@ -17,7 +17,7 @@
 ---
 
 ## 📸 Demp
-![Image](https://github.com/user-attachments/assets/dca9b878-fffb-4813-ac01-53e2977c0612)
+![GIF](https://github.com/user-attachments/assets/dca9b878-fffb-4813-ac01-53e2977c0612)
 
 
 ---
