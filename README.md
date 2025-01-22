@@ -13,7 +13,14 @@
 - 🎧 **Quran Radio**: Listen to Quran recitations.
 
 ---
-![Image](https://github.com/user-attachments/assets/bb807b57-7dc5-4f08-9b58-c04f571b275a)
+## 📸 Screenshots
+
+| Quran Screen              | Hadith Screen             | Sebha Counter           | Setting
+|---------------------------|--------------------------|------------------------|----------------------|
+| ![Image](https://github.com/user-attachments/assets/bb807b57-7dc5-4f08-9b58-c04f571b275a) | ![Quran](screenshots/quran_screen.png) | ![Prayer](screenshots/prayer_times.png) |
+
+---
+
 ## 🎥 App Preview
  
 ![Image](https://github.com/user-attachments/assets/dca9b878-fffb-4813-ac01-53e2977c0612)
