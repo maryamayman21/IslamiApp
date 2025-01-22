@@ -13,9 +13,9 @@
 - 🎧 **Quran Radio**: Listen to Quran recitations.
 
 ---
-
+![Image](https://github.com/user-attachments/assets/bb807b57-7dc5-4f08-9b58-c04f571b275a)
 ## 🎥 App Preview
-
+ 
 ![Image](https://github.com/user-attachments/assets/dca9b878-fffb-4813-ac01-53e2977c0612)
 
 📚 Tools and State Management
